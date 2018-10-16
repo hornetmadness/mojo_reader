@@ -1,0 +1,6 @@
+</div>
+
+%= javascript 'js/ui.js'
+
+</body>
+</html>
